@@ -1,4 +1,4 @@
-# CRYPTO 01: INTERCEPTED COMMS
+## CRYPTO 01: INTERCEPTED COMMS
 
 description: An operative's encrypted notes use a weak cipher. Decrypting them reveals internal codenames for A₀ submodules.
 files: intercepted_message.txt
